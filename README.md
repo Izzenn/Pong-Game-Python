@@ -41,6 +41,10 @@ You can customize the game by modifying various parameters in the `pong.py` scri
 - Python 3.x
 - Pygame
 
+## Gameplay Video
+
+Check out the gameplay video on [YouTube](https://youtu.be/xGWY2hCYHdU) to get a sneak peek of what SpaceGame has to offer!
+
 ## Credits
 
 This Pong Game project was created by [Your Name]. Feel free to contribute or provide feedback.
