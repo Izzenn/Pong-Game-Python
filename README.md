@@ -43,7 +43,7 @@ You can customize the game by modifying various parameters in the `pong.py` scri
 
 ## Gameplay Video
 
-Check out the gameplay video on [YouTube](https://youtu.be/xGWY2hCYHdU) to get a sneak peek of what SpaceGame has to offer!
+Check out the gameplay video on [YouTube](https://youtu.be/xGWY2hCYHdU) to get a sneak peek of what pong game has to offer!
 
 ## Credits
 
